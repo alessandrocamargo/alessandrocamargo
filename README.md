@@ -1,52 +1,46 @@
-## 👋 Olá, eu sou o Alessandro Camargo
+# Olá, eu sou Alessandro Camargo 👋
 
-💻 Desenvolvedor Web Júnior
-🎓 Formado em Análise e Desenvolvimento de Sistemas
-📚 Cursando pós-graduação em Desenvolvimento de Sistemas com Python
-📍 Brasil
+### Desenvolvedor Frontend
 
-Sou **desenvolvedor júnior** focado em FrontEnd, com base sólida nos fundamentos e experiência prática construída através de projetos pessoais.
-Estou sempre estudando e em busca da minha **primeira oportunidade profissional** na área de tecnologia.
+Atualmente focado no desenvolvimento de aplicações web com **React, JavaScript, TypeScript e Tailwind CSS**.
 
----
+Minha experiência profissional em TI também contribui para uma visão prática sobre suporte, infraestrutura, usuários e resolução de problemas.
 
-### 🚀 Sobre mim
+## 🚀 Atualmente
 
-- Base sólida em **HTML, CSS e JavaScript**
-- Experiência criando interfaces responsivas com **Bootstrap e React**
-- Aprofundando conhecimento em **Python** através de pós-graduação em Desenvolvimento de Sistemas
-- Conhecimento em **Python** para scripts e fundamentos de back-end
-- Familiaridade com **Git e GitHub** para controle de versão
-- Sempre aprendendo e aberto a feedback
+* 🔨 Desenvolvendo o **NotebookHub**, meu principal projeto de estudo e portfólio em Frontend
+* 🎙️ Mantendo o **PodPadre**, uma aplicação web ativa desenvolvida com React e TypeScript
+* 📚 Aprofundando conhecimentos em React, JavaScript, TypeScript, UI/UX e consumo de APIs REST
+* 🎯 Em busca de oportunidades como **Desenvolvedor Frontend Júnior**
 
----
+## 🛠️ Tecnologias
 
-### 🛠️ Stack de tecnologias
+### Frontend
 
-**Front-end**
+React • JavaScript • TypeScript • HTML • CSS • Tailwind CSS • Bootstrap
 
-HTML5 · CSS3 · JavaScript · Bootstrap · React
+### Backend / APIs
 
-**Back-end / Outras**
+Python • FastAPI • REST APIs
 
-Python · Flutter
+### Ferramentas
 
----
+Git • GitHub • Vite • VS Code
 
-### 📂 Projetos em destaque
+## 📌 Projetos em destaque
 
-Você encontra meus principais projetos fixados no perfil. Eles mostram minha capacidade de:
+### 💻 NotebookHub
 
-- Estruturar aplicações front-end
-- Aplicar lógica em JavaScript
-- Organizar código e repositórios
-- Praticar boas práticas de desenvolvimento
+Aplicação web para pesquisa, filtragem e descoberta de notebooks, desenvolvida com React e Tailwind CSS.
 
----
+Foco atual: **Frontend, UI/UX, componentes reutilizáveis e experiência do usuário.**
 
-### 🌐 Vamos nos conectar
+### 🎙️ PodPadre
 
-- LinkedIn: [alessandro-camargo-740502142](https://www.linkedin.com/in/alessandro-camargo-740502142/)
-- Instagram: [@sancamargosan](https://www.instagram.com/sancamargosan/)
-- Discord: [Entrar no servidor](https://discord.gg/913998457163878480)
-- E-mail: [alessancamargo@gmail.com](mailto:alessancamargo@gmail.com)
+Portal de curiosidades sobre o Catolicismo Apostólico Romano, desenvolvido com React, TypeScript, Vite e Bootstrap.
+
+Projeto ativo e publicado.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/alessandro-camargoac/)
