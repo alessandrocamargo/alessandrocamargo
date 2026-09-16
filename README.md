@@ -2,9 +2,10 @@
 
 💻 Desenvolvedor Web Júnior
 🎓 Formado em Análise e Desenvolvimento de Sistemas
+📚 Cursando pós-graduação em Desenvolvimento de Sistemas com Python
 📍 Brasil
 
-Sou **desenvolvedor júnior** focado em desenvolvimento web, com base sólida nos fundamentos e experiência prática construída através de projetos pessoais.
+Sou **desenvolvedor júnior** focado em FrontEnd, com base sólida nos fundamentos e experiência prática construída através de projetos pessoais.
 Estou sempre estudando e em busca da minha **primeira oportunidade profissional** na área de tecnologia.
 
 ---
@@ -13,6 +14,7 @@ Estou sempre estudando e em busca da minha **primeira oportunidade profissional*
 
 - Base sólida em **HTML, CSS e JavaScript**
 - Experiência criando interfaces responsivas com **Bootstrap e React**
+- Aprofundando conhecimento em **Python** através de pós-graduação em Desenvolvimento de Sistemas
 - Conhecimento em **Python** para scripts e fundamentos de back-end
 - Familiaridade com **Git e GitHub** para controle de versão
 - Sempre aprendendo e aberto a feedback
