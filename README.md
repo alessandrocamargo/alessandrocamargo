@@ -4,7 +4,7 @@
 🎓 Graduated in Systems Analysis and Development  
 📍 Brazil  
 
-I'm a **Junior Developer** focused on Web Development, with solid fundamentals and hands-on experience through personal projects.  
+I'm a **Junior Developer** focused on FrontEnd Development, with solid fundamentals and hands-on experience through personal projects.  
 I'm constantly improving my skills and looking for my **first professional opportunity** in the tech industry.
 
 ---
